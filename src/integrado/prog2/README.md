@@ -1,6 +1,6 @@
 #TRABAJO PRACTICO INTEGRADOR - PROGRAMACION 2 - TUPAD - UTN
 # Sistema de Gestión de Pedidos - Consola Java
-# Alumno: Daniel Nicolas Dominguez Coria, DNI 35085946, comision 4
+# Alumno: Daniel Nicolas Dominguez Coria, comision 4
 
 ¡Bienvenido al Sistema de Gestión de Pedidos! Esta es una aplicación de consola desarrollada en **Java 21**
 que implementa un flujo completo de administración para un negocio gastronómico o de ventas, abarcando la
