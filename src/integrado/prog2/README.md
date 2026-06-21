@@ -69,4 +69,4 @@ src/
 (existe tambien la carpeta config. La misma se encuentra en este momento sin elementos ya que el programa guarda datos en memoria, está pensada por si, en el futuro, se implementa al proyecto JDBC)
 
 Link a repositorio de Github: https://github.com/NicolasDominguezCoria/TPI_Programacion2_Nicolas_Dominguez/tree/main/src
-Link al video explicativo:
+Link al video explicativo: https://drive.google.com/file/d/1cds1nkhfomY5LUaiTNzI9T65_DbLFt3c/view?usp=sharing
