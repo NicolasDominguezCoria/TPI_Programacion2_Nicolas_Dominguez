@@ -70,3 +70,4 @@ src/
 
 Link a repositorio de Github: https://github.com/NicolasDominguezCoria/TPI_Programacion2_Nicolas_Dominguez/tree/main/src
 Link al video explicativo: https://drive.google.com/file/d/1cds1nkhfomY5LUaiTNzI9T65_DbLFt3c/view?usp=sharing
+Link del pdf: https://drive.google.com/file/d/1vI8fTRFXQG-YhmXSvQVmaM7V_YxfFZMu/view?usp=sharing
